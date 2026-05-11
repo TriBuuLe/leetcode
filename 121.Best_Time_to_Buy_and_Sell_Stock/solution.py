@@ -10,6 +10,7 @@ class Solution:
                 profit = price - min_price
                 max_profit = max(max_profit, profit)
 
+                
         return max_profit
 
         
