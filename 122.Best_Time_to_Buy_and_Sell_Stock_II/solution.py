@@ -8,7 +8,7 @@ class Solution:
             
         return profit
 
-        #strategy: take every possible gains after a day
+        # take every possible gains after a day
 
 
         
