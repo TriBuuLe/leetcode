@@ -21,6 +21,3 @@ Problems are organized individually, usually by their LeetCode number and title.
 - Most solutions aim for optimal time and space complexity
 - Code is written to be simple and interview-ready
 
-## LeetCode Profile
-
-Tri Le: https://leetcode.com/u/hale0123/
